@@ -20,11 +20,3 @@ Winner of a Hackathon for building a **Health Detection System** using the **MER
 **Tools:** Git, GitHub  
 
 ---
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankalamsal&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankalamsal&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
