@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Priyanka Lamsal
 
 **Full Stack Web Developer**  
-Java | Spring Boot | ReactJS | MongoDB  
 [GitHub](https://github.com/priyankalamsal) | [LinkedIn](https://linkedin.com/in/priyankalamsal)
 
 ---
