@@ -1,21 +1,13 @@
-# 👋 Hi, I'm Priyanka Lamsal
+# Hi i'm Priyanka Lamsal
+**Full Stack Developer** // I Love the systems
 
-**Full Stack Web Developer**  
-[GitHub](https://github.com/priyankalamsal) | [LinkedIn](https://linkedin.com/in/priyankalamsal)
+### Stack
+**FE:** React, Next.js, Tailwind  
+**BE:** Java, Spring Boot, Node.js, Go, Rust, Solidity  
+**DB:** PostgreSQL, MongoDB, Redis  
+**Tools:** Git, Docker, Postman, Hardhat  
 
----
-
-### About Me
-I’m a B.Tech CSE (3rd Year) student at ACET, India.  
-Passionate about building responsive, user-friendly web apps using **Java, Spring Boot, and ReactJS**.  
-Winner of a Hackathon for building a **Health Detection System** using the **MERN Stack**.
-
----
-
-### Skills
-**Frontend:** HTML, CSS, JavaScript, ReactJS  
-**Backend:** Java, Spring Boot  
-**Database:** MongoDB  
-**Tools:** Git, GitHub  
-
----
+### Highlights
+- Hackathon Winner (MERN)
+- API-first, backend-driven
+- Clean code > clever code
